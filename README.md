@@ -1,9 +1,7 @@
 
 > 假设你已经了解 [**依赖注入**](http://www.devtf.cn/?p=1248) 这一概念，只是在如何使用 Dagger 时遇到了一些困扰，因为 Dagger 其实是一个上手难度颇高的库。我试图通过这篇文章解决如何上手这一问题。
 
-
 目前 Dagger 有两个分支，一个由 [Square](https://github.com/square/dagger) 维护，一个为 Google 在前者的基础上开出的分支，即 [Dagger 2](https://github.com/google/dagger) 。关于二者的比较，[点击此处](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0519/2892.html) 。
-
 
 本文写作过程中参考了不少优秀的 Dagger 文章，列在文章末尾。
 
